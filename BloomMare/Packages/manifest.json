@@ -1,6 +1,6 @@
 {
-  "dependencies": {
-    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.22.5.tgz",
+    "dependencies": {
+    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.27.3.tgz",
     "com.unity.ide.rider": "3.0.34",
     "com.unity.inputsystem": "1.11.2",
     "com.unity.multiplayer.center": "1.0.0",
